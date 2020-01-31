@@ -4,6 +4,7 @@ ENPASS Sync Service via Webdav
 INSTALLATION:
 
 1. Before you build your docker image!
+   
    Set webdav username and password that you will later use to in Enpass app:
   
       ./setpassword.sh
