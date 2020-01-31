@@ -10,7 +10,7 @@ INSTALLATION:
   
 2. Build you docker image.
 
-  cd <docker_build_files>
+    cd <docker_build_files>
   docker build -t <your_image_name>:latest .
 
 3. Create container.
