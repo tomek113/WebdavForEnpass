@@ -1,4 +1,5 @@
-* ENPASS Sync Service via Webdav *
+ENPASS Sync Service via Webdav
+------------------------------
 
 INSTALLATION:
 
