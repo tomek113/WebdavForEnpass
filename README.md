@@ -11,6 +11,7 @@ INSTALLATION:
 2. Build you docker image.
 
     cd <docker_build_files>
+    
     docker build -t <your_image_name>:latest .
 
 3. Create container.
@@ -29,5 +30,7 @@ INSTALLATION:
 4. Configure Enpass App to sync over Webdav
    
    URL: <host_IP_address:port>
+   
    Username: as set via ./setpassword.sh
+   
    Password: as set via ./setpassword.sh
