@@ -5,7 +5,7 @@ INSTALLATION:
 
 1. Before you build your docker image!
    
-   Set webdav username and password that you will later use to in Enpass app:
+   Set webdav username and password that you will later use in Enpass app:
   
       cd <docker_build_files>
       
