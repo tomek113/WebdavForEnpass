@@ -28,6 +28,7 @@ INSTALLATION:
    If you want enpass sync data to be persistent, create docker volume and attach to the container:
    
    docker volume create <your_volume_name>
+   
    docker run --name <your_container_name> -d -p <host_port>:8080 -v <your_volume_name>:/var/www/webdav/enpass       <your_image_name>:latest
   
 4. Configure Enpass App to sync over Webdav
