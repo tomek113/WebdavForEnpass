@@ -1,6 +1,10 @@
 ENPASS Sync Service via Webdav
 ------------------------------
 
+PURPOSE:
+
+You can run this service on your home server / Raspberry Pi and enjoy passwords sync between your devices without using public Cloud providers.
+
 INSTALLATION:
 
 1. Before you build your docker image!
